@@ -1,0 +1,9 @@
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\obj\Debug\ClientChat.Cliente.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\WcfServiceChat\ClientChat\obj\Debug\ClientChat.pdb

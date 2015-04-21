@@ -1,0 +1,6 @@
+C:\Users\Pedro\documents\visual studio 2013\Projects\WcfServiceChat\WcfServiceChat\bin\WcfServiceChat.dll.config
+C:\Users\Pedro\documents\visual studio 2013\Projects\WcfServiceChat\WcfServiceChat\bin\WcfServiceChat.dll
+C:\Users\Pedro\documents\visual studio 2013\Projects\WcfServiceChat\WcfServiceChat\bin\WcfServiceChat.pdb
+C:\Users\Pedro\documents\visual studio 2013\Projects\WcfServiceChat\WcfServiceChat\obj\Debug\WcfServiceChat.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\documents\visual studio 2013\Projects\WcfServiceChat\WcfServiceChat\obj\Debug\WcfServiceChat.dll
+C:\Users\Pedro\documents\visual studio 2013\Projects\WcfServiceChat\WcfServiceChat\obj\Debug\WcfServiceChat.pdb
